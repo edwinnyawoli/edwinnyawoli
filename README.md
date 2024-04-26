@@ -1,8 +1,8 @@
 Hi, My name is Edwin Nyawoli
 =====================================================================================================================================
 
-* 🌍  I'm based in (In/Out)side the Matrix
-* 🖥️  See my portfolio at [https://nyawoli.com](http://nyawoli.com)
+* 🌍  (In/out)side the Matrix
+* 🖥️  See my portfolio at [https://nyawoli.com](http://nyawoli.com) [WIP]
 * 🚀  I'm currently working on [Affinity Mobile Banking application](http://affinityghana.com)
 * 🤝  I'm open to collaborating on mobile apps
 
